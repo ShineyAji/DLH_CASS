@@ -71,7 +71,7 @@ All the other preprocessing code were mentioned in DL4H_117.ipynb file.
 
 ## Explore files:
 
--- [DL4H_117.ipynb](https://github.com/ShineyAji/DLH_CASS/blob/main/DL4H_117.ipynb "BrainMRI"):contains the code for self-supervised and downstream supervised fine-tuning for BrainMRI Dataset. It also contains the evaluation code for trained and saved model.
+-- [DL4H_117.ipynb](https://github.com/ShineyAji/DLH_CASS/blob/main/DL4H_117_CASS_Final.ipynb "BrainMRI"):contains the code for self-supervised and downstream supervised fine-tuning for BrainMRI Dataset. It also contains the evaluation code for trained and saved model.
 
 -- [DLH_CASS_ISIC2019.ipynb](https://github.com/ShineyAji/DLH_CASS/blob/main/DLH_CASS_ISIC2019.ipynb "isic"):contains the code for self-supervised and downstream supervised fine-tuning for 2019 ISIC Dataset. 
 
